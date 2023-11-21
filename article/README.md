@@ -39,9 +39,7 @@ The study involves collecting and analyzing data on various aspects of cycling i
 We welcome contributions from researchers, city planners, cyclists, and enthusiasts. If you have data, experiences, or insights about any of the listed cities or others, please feel free to contribute.
 
 ## Contact
-For more information or to contribute to this study, please contact [Your Email/Contact Information].
+For more information or to contribute to this study, please contact me at bernardo_brito1@hotmail.com.
 
-## License
-[Specify the license under which this study is shared, if applicable]
 
 
