@@ -12,7 +12,7 @@ The study involves collecting and analyzing data on various aspects of cycling i
 ## Cities Under Study
 
 ### Top 10 Worst Bike-Friendly Cities
-1. Sydney
+1. Sydney: 700 
 2. Hong Kong
 3. Delhi
 4. Moscow
