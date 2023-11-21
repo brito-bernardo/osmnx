@@ -24,8 +24,8 @@ The study involves collecting and analyzing data on various aspects of cycling i
 10. Orlando
 
 ### Top 10 Best Bike-Friendly Cities
-1. Hanover
-2. Bremen
+1. Hanover: 101 (In the downtown too little around 60)
+2. Bremen: 81
 3. Bern
 4. Hangzhou
 5. Malmö
